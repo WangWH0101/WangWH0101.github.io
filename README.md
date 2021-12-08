@@ -1,8 +1,8 @@
 # Curriculum Vitae
 
 ## Education Background
-**2015~2019 Undergraduate**:Sichuan University(985), College of Physics
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2015~2019 Undergraduate**: Theoretical Physics, College of Physics, Sichuan University(985). 
+**2019~ Graduate**: Complex Network and Big Data, College of Computer and Information Science, Southwest University of China (211)
 
 ```markdown
 Syntax highlighted code block
