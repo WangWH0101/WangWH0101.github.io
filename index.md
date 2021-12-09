@@ -18,6 +18,10 @@
 - Python
 - C++/C
 - Matlab
+
+## Publications
+### Patent
+1. W. Wang, Y. Wu & P. He, A hand-held weeder for tobacco fields in hilly and mountainous areas, 20210915, 202122237182.2
 ## Research Experience
 ### Undergraduate
 - **Electrospinning:**
@@ -63,6 +67,9 @@ with soft shaft and seedling avoidance mechanism. A utility model patent of the 
 <a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/Mower"><img src="/Pics/Mower/MowerDesign.png" width="300"><img src="/Pics/Mower/UnityEnv1.png" width="300"><img src="/Pics/Mower/UnityEnv2.png" width="300"></a><br>
 
 [^4]: https://docs.donkeycar.com/
+
+## Honors and Awards
+1. Third award in "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling. [Award certificate]()
 
 ## Grades
 ### Undergraduate
