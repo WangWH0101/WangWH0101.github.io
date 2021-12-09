@@ -69,7 +69,7 @@ with soft shaft and seedling avoidance mechanism. A utility model patent of the 
 [^4]: https://docs.donkeycar.com/
 
 ## Honors and Awards
-1. Third award in "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling. [Award certificate]()
+1. Third award in "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling. [Award certificate](/Pics/Others/MathModelAward.pdf)
 
 ## Grades
 ### Undergraduate
