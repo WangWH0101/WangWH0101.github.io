@@ -22,6 +22,7 @@
 ## Publications
 ### Patent
 1. W. Wang, Y. Wu & P. He, A hand-held weeder for tobacco fields in hilly and mountainous areas, 20210915, 202122237182.2
+
 ## Research Experience
 ### Undergraduate
 - **Electrospinning:**
