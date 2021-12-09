@@ -16,6 +16,7 @@
 - **Network state propagation:**
 	- The existence of various kinds of networks brings a large number of topological structures composed of different nodes and corresponding states. The research on network science has been showing increasing importance in many domains, such as epidemic prediction, rumor spreading and recommendation system. I've studied the SI and SIS propagation of node states under randomly generated undirected networks of poisson and regular distribution. The fractions of infected nodes under continuous and discrete propagations are compared. Besides, the theoretical calculation methods including AME, PA and mean field(MF)[^1] are introduced and tested.<br>
 <a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/Network state propagation"><img src="/Pics/Network state propagation/NodeStateChange.png" width="130"><img src="/Pics/Network state propagation/NodeStateUpdate.png" width="150"><img src="/Pics/Network state propagation/ContinuousDiscrete.png" width="150"><img src="/Pics/Network state propagation/ContiDisc_SIS.png" width="150"><img src="/Pics/Network state propagation/ContiDisc_SampIntv.png" width="150"><img src="/Pics/Network state propagation/AME_PA_MF.png" width="150"></a><br>
+
 [^1]:V. Marceau, A. Allard, Adaptive Networks: Coevolution of Disease and Topology, Phys. Rev. E 82,036116 (2010). 
 
 ### Postgraduate
