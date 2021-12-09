@@ -14,4 +14,4 @@
 	- As the team leader, I have designed the experiment and research targets. With the help of all team members, we've carried out the research on the influence of PVP-based electrospinning on the filtration performance of mask. The filterability and air permeability of mask with spinning attached are tested.<br>
 <img src="/Pics/FlowChart.png" width="150"/><img src="/Pics/SpinEquip.png" width="150"/><img src="/Pics/FiltTST.png" width="150"/><img src="/Pics/PermTST.png" width="150"><img src="/Pics/IMG_0124-min.jpeg" width="150"/><img src="/Pics/IMG_0130-min.jpeg" width="150"/><br>
 - **Network state propagation:**
-
+	- The wide existence of various networks brings a large number of topologies composed of different units and corresponding states
