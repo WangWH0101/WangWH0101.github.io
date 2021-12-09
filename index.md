@@ -28,4 +28,7 @@
 		<a gref="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CitationRatioPref/Z_Score"><img src="/Pics/CitationRatioPref/Z_Score/CitZscoreCluster.png" width="400"><img src="/Pics/CitationRatioPref/Z_Score/Zscore_NZscore_OtherToCN.png" width="400"></a><br>
 		- **Experiment and verification**<br>
 		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CitationRatioPref/ReferenceGrowthRate"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ReferenceGrowthRate.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ImpactOnICR_CtryToCtry.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_HalfRFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_0.01RFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_RFGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_PubGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/IN_ICR_NOCN.png" width="200"></a><br>
+- **Influence of Counting Methods on Institution Level Ranking:**
+	- 		
+
 		
