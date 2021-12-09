@@ -11,8 +11,8 @@
 ## Language Ability
 - Chinese (Mother tongue)
 - TOEFL (Score:106 Time:2021/05/26)
-- Japanese (A little bit)
-<img src="/Pics/Others/TOEFL.png" width="400">
+- Japanese (A little bit)<br>
+<img src="/Pics/Others/TOEFL.png" width="300"><br>
 ## Research Experience
 ### Undergraduate
 - **Electrospinning:**
