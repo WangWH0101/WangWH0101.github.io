@@ -60,6 +60,6 @@
 	Visual navigation, Weeding, Soft shaft, Seedling avoidance, Tobacco field
 	- Tobacco is an important cash crop, while the vigorous weeds in the tobacco field have been seriously affecting the growth and development of tobacco plants, resulting in the reduction of related product’s yield and quality. Therefore, the weeds in tobacco field should be removed in time after uncovering the film. However, at present, weeding is mainly done manually with high labor intensity and low efficiency in hilly and mountainous areas, which account for a large proportion in China. As a result, I've cooperated with students from College of Engineering and Technology to develop an automatic weeding platform suitable for relevant areas. The equipment mainly consists of weeding mechanism
 with soft shaft and seedling avoidance mechanism. A utility model patent of the design is in the pending process. We are now working on the visual navigation part with the help of Donkeycar.[^4] A virtual environment of tobacco field is built in unity to optimize the parameters in model.
-
+<a href=""><img src="" width=""></a><br>
 
 [^4]: https://docs.donkeycar.com/
