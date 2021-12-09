@@ -19,4 +19,4 @@
 
 ## Research Experience
 ### Undergraduate
--Electrospinning:
+- Electrospinning:
