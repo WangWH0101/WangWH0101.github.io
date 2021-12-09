@@ -27,7 +27,7 @@
 	- The existence of various kinds of networks brings a large number of topological structures composed of different nodes and corresponding states. The research on network science has been showing increasing importance in many domains, such as epidemic prediction, rumor spreading and recommendation system. I've studied the SI and SIS propagation of node states under randomly generated undirected networks of poisson and regular distribution. The fractions of infected nodes under continuous and discrete propagations are compared. Besides, the theoretical calculation methods including AME, PA and mean field(MF)[^1] are introduced and tested. This study is basiclly done through Matlab.<br>
 <a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/Network state propagation"><img src="/Pics/Network state propagation/NodeStateChange.png" width="130"><img src="/Pics/Network state propagation/NodeStateUpdate.png" width="150"><img src="/Pics/Network state propagation/ContinuousDiscrete.png" width="150"><img src="/Pics/Network state propagation/ContiDisc_SIS.png" width="150"><img src="/Pics/Network state propagation/ContiDisc_SampIntv.png" width="150"><img src="/Pics/Network state propagation/AME_PA_MF.png" width="150"></a><br>
 
-[^1]:V. Marceau, A. Allard, Adaptive Networks: Coevolution of Disease and Topology, Phys. Rev. E 82,036116 (2010). 
+[^1]: V. Marceau, A. Allard, Adaptive Networks: Coevolution of Disease and Topology, Phys. Rev. E 82,036116 (2010). 
 
 ### Postgraduate
 - **International Citation Ratio (ICR) and Citation Preference:**
@@ -43,6 +43,10 @@
 - **Influence of Counting Methods on Institution Level Ranking:**
 	- **Keywords:**<br>
 	Big data processing and analysis, Counting methods, Institution rankings, Institution name disambiguation, Inflation, Correlation
-	- The ranking of academic bodies (e.g. country, institution and person) will unavoidably need to measure their research output and impact. Publication and citation are the most widely used counting targets. The counting of publication reflects the academic volume, while the counting of citation measures the scientific impact to some extent. However, different counting methods have shown far different ranking results. Since 
+	- The ranking of academic bodies (e.g. country, institution and person) will unavoidably need to measure their research output and impact. Publication and citation are the most widely used counting targets. The counting of publication reflects the academic volume, while the counting of citation measures the scientific impact to some extent. However, different counting methods have shown far different ranking results. Since Marianne Gauffriau have given a normative and rigorous definition of counting methods[^2] and many so called institution level only discussed universities, it's necessary to take this opportunity to carry out a complete and accurate research on this topic. After the restoration of WoS database, I've matched each author to his/her address segments and carried out the institution name disambiguation with an improved AI based approach[^3] <br>
+(*to be published*)
+
+[^2]: Marianne Gauffriau, Counting methods introduced into the bibliometric research literature 1970 – 2018: A review, . Quantitative Science Studies (2021). Advance Publication. https://doi.org/10.1162/qss_a_00141
+[^3]: 
 
 		
