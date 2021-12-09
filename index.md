@@ -54,8 +54,10 @@
 	Big data processing and analysis, Counting methods, Institution rankings, Institution name disambiguation, Inflation, Correlation
 	- The ranking of academic bodies (e.g. country, institution and person) will unavoidably need to measure their research output and impact. Publication and citation are the most widely used counting targets. The counting of publication reflects the academic volume, while the counting of citation measures the scientific impact to some extent. However, different counting methods have shown far different ranking results. Since Marianne Gauffriau have given a normative and rigorous definition of counting methods[^2] and many so called institution level only discussed universities, it's necessary to take this opportunity to carry out a complete and accurate research on this topic. After the restoration of WoS database, I've matched each author to his/her address segments and carried out the institution name disambiguation(IND) with an improved AI based approach.[^3] A total of six counting methods are utilized for publication and citation from counting at institution level in WoS data between 2000 and 2016. The main discovery is the classification of counting methods into three groups and the disadvantage of huge-crowd strategy under whole counting. <br>
 (*almost finished work led by me, first contributor, to be submitted*)<br>
-<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/PubRanking.png" width="400"><img src="/Pics/CountMethod/SpearmanCo.png" width="400"></a><br>
-
+<div align=center>
+<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/PubRanking.png" width="400"><br><img src="/Pics/CountMethod/SpearmanCo.png" width="400"></a><br>
+</div>
+	
 [^2]: Marianne Gauffriau. Counting methods introduced into the bibliometric research literature 1970 – 2018: A review. Quantitative Science Studies (2021). Advance Publication. https://doi.org/10.1162/qss_a_00141.
 [^3]: Huang S., Ronald R. & Yang B. Institution name disambiguation for research assessment. Scientometrics, 201403.
 
