@@ -20,3 +20,5 @@
 ## Research Experience
 ### Undergraduate
 - Electrospinning:
+ As the team leader, I have designed the experiment and research targets. With the help of all team members, we've carried out the research on the influence of PVP-based electrospinning on the filtration performance of mask. The filterability and air permeability of mask with spinning attached are tested.
+![Fig1](/Pics/IMG_0124-min.jpeg) ![Fig2](/Pics/IMG_0130-min.jpeg)
