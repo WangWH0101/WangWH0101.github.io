@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+#Curriculum Vitae
+##Personal Information
+**Name:** Weihan Wang (王维翰)
+**Location:** Chongqing, China
+**E-mail:** WangWH0101@gmail.com
 
-You can use the [editor on GitHub](https://github.com/WangWH0101/WangWH0101.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+##Education Background
+**2015.09~2017.08 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University(985).
+**2017.08~2017.09 Summer Session:** Physics 7D, School of Physics Sciences, University of California Irvine(UCI).
+**2017.09~2019.06 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University(985).
+**2019.09~        Postgraduate(exam-exempted):** Network Science and Big Data, College of Computer and Information Science, Southwest University of China (211).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WangWH0101/WangWH0101.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##Research Experience
+###Undergraduate
+-Electrospinning:
