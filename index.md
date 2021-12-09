@@ -1,7 +1,11 @@
 #Curriculum Vitae
+
 ##Personal Information
+
 **Name:** Weihan Wang (王维翰)
+
 **Location:** Chongqing, China
+
 **E-mail:** WangWH0101@gmail.com
 
 ##Education Background
