@@ -54,4 +54,7 @@
 [^2]: Marianne Gauffriau. Counting methods introduced into the bibliometric research literature 1970 – 2018: A review. Quantitative Science Studies (2021). Advance Publication. https://doi.org/10.1162/qss_a_00141.
 [^3]: Huang S., Ronald R. & Yang B. Institution name disambiguation for research assessment. Scientometrics, 201403.
 
-		
+### Extended research
+- **Weeding equipment platform:**
+	- **Keywords:**
+	
