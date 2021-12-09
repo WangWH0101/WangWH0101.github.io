@@ -68,3 +68,6 @@ with soft shaft and seedling avoidance mechanism. A utility model patent of the 
 ### Undergraduate
 > Official document is on the way.<br>
 This is the [Undergraduate Grades](/Grades/Undergraduate.pdf).
+### Postgraduate
+> Official document is on the way.<br>
+<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Grades/PostGraduate.png"><img src="/Grades/PostGraduate.png"></a>
