@@ -12,7 +12,7 @@
 - Chinese (Mother tongue)
 - TOEFL (Score:106 Time:2021/05/26)
 - Japanese (A little bit)
-<img src="" width="">
+<img src="/Pics/Others/TOEFL.png" width="400">
 ## Research Experience
 ### Undergraduate
 - **Electrospinning:**
