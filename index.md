@@ -22,4 +22,5 @@
 ### Postgraduate
 - **International Citation Ratio (ICR) and Citation Preference:**
 	- Based on the database of Web of Science (WoS), I have used the null model of random citation and further explored the mathematical reason for the abnormal phenomenon that the proportion of foreign citations in total citations received by China has been dramatically decreasing compared with other main countries of scientific output. By analogy with concentration problems, I have found the key factor that is how many papers a country cites compared with others in a year and successfully verified it in the original database. In short, it can be simply attributed to that the more you publish, the more likely you would suffer the pressure of ICR decline. In addition, the Z-score of citation has been calculated at country level to show the international citation preference of main countries. Besides, the country-to-country Z-Score has shown an obvious clustering phenomenon, demonstrating the collaboration stength in the corresponding citation network.<br> (*undergoing groupwork, to be published*)<br>
-<a href=""><img src="" width="150"></a><br>
+		- **Phenomenon**<br>
+		<a href=""><img src="" width="150"></a><br>
