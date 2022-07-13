@@ -44,7 +44,7 @@
 - **International Citation Ratio (ICR) and Citation Preference:**
 	- **Keywords:**<br>
 	Big data processing and analysis, Citation network, Web of science(WoS) database, International citation ratio(ICR), Zscore, Citation preference
-	- Based on the database of Web of Science (WoS), I have used the null model of random citation and further explored the mathematical reason for the abnormal phenomenon that the proportion of foreign citations in total citations received by China has been dramatically decreasing compared with other main countries of scientific output. By analogy with concentration problems, I have found the key factor that is how many papers a country cites compared with others in a year and successfully verified it in the original database. In short, it can be simply attributed to that the more you publish, the more likely you would suffer the pressure of ICR decline. In addition, the Z-score of citation has been calculated at country level to show the international citation preference of main countries. Besides, the country-to-country Z-Score has shown an obvious clustering phenomenon, demonstrating the collaboration stength in the corresponding citation network. In this research, I've cleaned and arranged the enormous original WoS data from 1970 to 2018, while generated a large number of structured data files for analysis and future work. This work is based on Python in Google server with over 20000 lines.<br> (*undergoing groupwork, first contributor, plan to submit in Nature Communications*)<br>
+	- Based on the database of Web of Science (WoS), I have used the null model of random citation and further explored the mathematical reason for the abnormal phenomenon that the proportion of foreign citations in total citations received by China has been dramatically decreasing compared with other main countries of scientific output. By analogy with concentration problems, I have found the key factor that is how many papers a country cites compared with others in a year and successfully verified it in the original database. In short, it can be simply attributed to that the more you publish, the more likely you would suffer the pressure of ICR decline. In addition, the Z-score of citation has been calculated at country level to show the international citation preference of main countries. Besides, the country-to-country Z-Score has shown an obvious clustering phenomenon, demonstrating the collaboration stength in the corresponding citation network. In this research, I've cleaned and arranged the enormous original WoS data from 1970 to 2018, while generated a large number of structured data files for analysis and future work. This work is based on Google server with Python as main programming language.<br> (*undergoing groupwork, first contributor, plan to submit in Nature Communications*)<br>
 		- **Phenomenon**<br>
 		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CitationRatioPref/Phenomenon"><img src="/Pics/CitationRatioPref/Phenomenon/BigNum_CN.png" width="200"><img src="/Pics/CitationRatioPref/Phenomenon/ICR_2010_2017.png" width="200"><img src="/Pics/CitationRatioPref/Phenomenon/ICR_2017.png" width="200"><img src="/Pics/CitationRatioPref/Phenomenon/SelfCitationStrength.png" width="200"></a><br>
 		- **Z-Score and cluster:**<br>
@@ -84,10 +84,10 @@ with soft shaft and seedling avoidance mechanism. A utility model patent of the 
 - **GPA:** 3.53 (Compulsory Courses), 3.54 (All Courses)
 - **Scores:** 86.32/100 (Compulsory Courses), 86.46/100 (All Courses)
 > Please check the official document below.<br>
-This is the [Undergraduate Grades](/Grades/UndergraduateScore.pdf).
+[Undergraduate Grades](/Grades/UndergraduateScore.pdf).
 ### Master
 - **Major:** Network Science and Big Data
 - **GPA:** 3.74 (All Courses)
 - **Scores:** 87.64/100 (All Courses)
 > Please check the official document below.<br>
-This is the [Master Grades](/Grades/PostGraduateScore.jpg).
+[Master Grades](/Grades/PostGraduateScore.jpg).
