@@ -1,7 +1,9 @@
 # Curriculum Vitae
 ## Personal Information
 **Name:** Weihan Wang (王维翰)<br>
-**Location:** Chongqing, China<br>
+**Location:** 
+-**1.**- Beibei, Chongqing, China<br>
+-**2.**- Nakano-ku, Tokyo, Japan<br>
 **E-mail:** wangwh0101@gmail.com
 ## Education Background
 **2015.09~2017.08 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University(985).<br>
