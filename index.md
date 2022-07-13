@@ -86,4 +86,4 @@ This is the [Undergraduate Grades](/Grades/UndergraduateScore.pdf).
 ### Master
 > Please check the official document below.<br>
 
-<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Grades/PostGraduate.png"><img src="/Grades/PostGraduateScore.png"></a>
+This is the [Master Grades](/Grades/PostGraduateScore.pdf).
