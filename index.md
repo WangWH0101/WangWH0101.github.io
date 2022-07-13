@@ -81,11 +81,13 @@ with soft shaft and seedling avoidance mechanism. A utility model patent of the 
 ## Grades
 ### Undergraduate
 - **Major:** Theoritical Physics
-- **GPA:** 
+- **GPA:** 3.53 (Compulsory Courses), 3.54 (All Courses)
+- **Scores:** 86.32/100 (Compulsory Courses), 86.46/100 (All Courses)
 > Please check the official document below.<br>
-
 This is the [Undergraduate Grades](/Grades/UndergraduateScore.pdf).
 ### Master
+- **Major:** Network Science and Big Data
+- **GPA:** 3.74 (All Courses)
+- **Scores:** 87.64/100 (All Courses)
 > Please check the official document below.<br>
-
 This is the [Master Grades](/Grades/PostGraduateScore.jpg).
