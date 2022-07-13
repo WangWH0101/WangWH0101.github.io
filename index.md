@@ -80,6 +80,8 @@ with soft shaft and seedling avoidance mechanism. A utility model patent of the 
 
 ## Grades
 ### Undergraduate
+- **Major:** Theoritical Physics
+- **GPA:** 
 > Please check the official document below.<br>
 
 This is the [Undergraduate Grades](/Grades/UndergraduateScore.pdf).
