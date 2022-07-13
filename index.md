@@ -86,4 +86,4 @@ This is the [Undergraduate Grades](/Grades/UndergraduateScore.pdf).
 ### Master
 > Please check the official document below.<br>
 
-This is the [Master Grades](/Grades/PostGraduateScore.pdf).
+This is the [Master Grades](/Grades/PostGraduateScore.jpg).
