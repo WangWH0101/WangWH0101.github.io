@@ -1,10 +1,10 @@
 # Curriculum Vitae
 ## Personal Information
-**Name:** Weihan Wang (王维翰)<br>
+### Name: Weihan Wang (王维翰)<br>
 ### Location: 
 - **1.** Beibei, Chongqing, China<br>
-- **2.** Nakano-ku, Tokyo, Japan<br>
-**E-mail:** wangwh0101@gmail.com
+- **2.** Nakano-ku, Tokyo, Japan (Now)<br>
+### E-mail: wangwh0101@gmail.com
 ## Education Background
 **2015.09~2017.08 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University(985).<br>
 **2017.08~2017.09 Summer Session:** Physics 7D, School of Physics Sciences, University of California Irvine(UCI).<br>
