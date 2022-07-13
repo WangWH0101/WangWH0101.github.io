@@ -7,7 +7,7 @@
 **2015.09~2017.08 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University(985).<br>
 **2017.08~2017.09 Summer Session:** Physics 7D, School of Physics Sciences, University of California Irvine(UCI).<br>
 **2017.09~2019.06 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University(985).<br>
-**2019.09~Now        Master in CS(exam-exempted):** Network Science and Big Data, College of Computer and Information Science, Southwest University of China (211).
+**2019.09~2022.06 Master in CS(exam-exempted):** Network Science and Big Data, College of Computer and Information Science, Southwest University of China (211).
 ## Language Ability
 - Chinese (Mother tongue)
 - TOEFL (Score:106 Time:2021/05/26)
