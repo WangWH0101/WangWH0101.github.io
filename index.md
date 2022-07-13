@@ -23,7 +23,7 @@
 ### Patent
 1. W. Wang, Y. Wu & P. He, A hand-held weeder for tobacco fields in hilly and mountainous areas, 20210915, 202122237182.2
 ### Journals
-1. Tan X, Gao L, Wang W, et al. Modelling alteration of leaf coloration peak date in Cotinus coggygria in a high-elevation karst region[J]. Agricultural and Forest Meteorology, 2022, 323: 109044. (JIF:6.424, 2022/7/13) https://www.sciencedirect.com/science/article/abs/pii/S0168192322002337
+1. Tan X, Gao L, Wang W, et al. Modelling alteration of leaf coloration peak date in Cotinus coggygria in a high-elevation karst region[J]. Agricultural and Forest Meteorology, 2022, 323: 109044. (JIF: 6.424) https://www.sciencedirect.com/science/article/abs/pii/S0168192322002337
 
 ## Research Experience
 ### Undergraduate
