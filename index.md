@@ -1,12 +1,5 @@
-#                          Weihan Wang
-                E-mail: wangwh0101@gmail.com
-
-## Personal Information
-### Name: Weihan Wang (王维翰)<br>
-### Location: 
-- **1.** Beibei, Chongqing, China<br>
-- **2.** Nakano-ku, Tokyo, Japan (Now)<br>
-### E-mail: wangwh0101@gmail.com
+# Weihan Wang
+    E-mail: wangwh0101@gmail.com
 
 ## Education Background
 **2015.09~2017.08 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University (985).<br>
@@ -16,15 +9,32 @@
 
 ## Publications
 ### Patent
-1. W. Wang, Y. Wu & P. He, A hand-held weeder for tobacco fields in hilly and mountainous areas, 20210915, 202122237182.2
+1. ***W. Wang***, Y. Wu & P. He, A hand-held weeder for tobacco fields in hilly and mountainous areas, 20210915, 202122237182.2
 ### Journal
-1. Tan X, Gao L, Wang W, et al. Modelling alteration of leaf coloration peak date in Cotinus coggygria in a high-elevation karst region[J]. Agricultural and Forest Meteorology, 2022, 323: 109044. (JIF: 6.424) https://www.sciencedirect.com/science/article/abs/pii/S0168192322002337
+1. Tan X, Gao L, ***Wang W***, et al. Modelling alteration of leaf coloration peak date in Cotinus coggygria in a high-elevation karst region[J]. Agricultural and Forest Meteorology, 2022, 323: 109044. (JIF: 6.424) https://www.sciencedirect.com/science/article/abs/pii/S0168192322002337
+
+## Honors and Awards
+1. Third award in "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling. [Award certificate](/Pics/Others/MathModelAward.pdf)
 
 ## Language Ability
-- Chinese (Mother tongue)
+- Chinese (Mother language)
 - TOEFL (Score:106 Time:2021/05/26)
 - Japanese (A little bit)<br>
 <img src="/Pics/Others/TOEFL.png" width="300"><br>
+
+## Grades
+### Undergraduate
+- **Major:** Theoritical Physics
+- **GPA:** 3.53 (Compulsory Courses), 3.54 (All Courses)
+- **Scores:** 86.32/100 (Compulsory Courses), 86.46/100 (All Courses)
+> Please check the official document below.<br>
+[Undergraduate Grades](/Grades/UndergraduateScore.pdf).
+### Master
+- **Major:** Network Science and Big Data
+- **GPA:** 3.74 (All Courses)
+- **Scores:** 87.64/100 (All Courses)
+> Please check the official document below.<br>
+[Master Grades](/Grades/PostGraduateScore.jpg).
 
 ## Programming Language
 - Python
@@ -35,8 +45,8 @@
 ### Undergraduate
 - **Electrospinning:**
 	- **Keywords:**<br>
-	Polyvinyl pyrrolidone(PVP), Electrospinning, Filterability, Air permeability
-	- As the team leader, I have designed the experiment and research targets. With the help of all team members, we've carried out the research on the influence of PVP-based electrospinning on the filtration performance of mask. The filterability and air permeability of mask with spinning attached are tested.<br>
+	Polyvinyl pyrrolidone(PVP), Fabric, Electrospinning, Filterability, Air permeability
+	- As the team leader, I have designed the experiment and research targets. With the help of all 	members, we've carried out research about the influence of PVP-based electrospinning fabric on the filtration performance of mask. The liquid polymer material forms filaments under high voltage electricity and attaches to the experimental object (i.e., mask). The filterability and air permeability of mask with filaments attached are tested. In addition, this new method of attaching extra fabric on filters (e.g., mask) may improve their filterability and durability. This study can be very valuable under the effects of Covid-19.<br /> (*still under research by other students in Sichuan University).<br>
 <a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/Electrospinning"><img src="/Pics/Electrospinning/FlowChart.png" width="150"/><img src="/Pics/Electrospinning/SpinEquip.png" width="150"/><img src="/Pics/Electrospinning/FiltTST.png" width="150"/><img src="/Pics/Electrospinning/PermTST.png" width="150"><img src="/Pics/Electrospinning/Equip1.jpeg" width="150"/><img src="/Pics/Electrospinning/Equip2.jpeg" width="150"/></a><br>
 - **Network State Propagation:**
 	- **Keywords:**<br>
@@ -83,19 +93,3 @@ with soft shaft and seedling avoidance mechanism. A utility model patent of the 
 
 [^4]: https://docs.donkeycar.com/
 
-## Honors and Awards
-1. Third award in "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling. [Award certificate](/Pics/Others/MathModelAward.pdf)
-
-## Grades
-### Undergraduate
-- **Major:** Theoritical Physics
-- **GPA:** 3.53 (Compulsory Courses), 3.54 (All Courses)
-- **Scores:** 86.32/100 (Compulsory Courses), 86.46/100 (All Courses)
-> Please check the official document below.<br>
-[Undergraduate Grades](/Grades/UndergraduateScore.pdf).
-### Master
-- **Major:** Network Science and Big Data
-- **GPA:** 3.74 (All Courses)
-- **Scores:** 87.64/100 (All Courses)
-> Please check the official document below.<br>
-[Master Grades](/Grades/PostGraduateScore.jpg).
