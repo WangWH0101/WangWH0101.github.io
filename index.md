@@ -10,6 +10,7 @@
 ## Publications
 ### Patent
 1. ***W. Wang***, Y. Wu & P. He, A hand-held weeder for tobacco fields in hilly and mountainous areas, 20210915, 202122237182.2<br>
+
 ### Journal
 1. Tan X, Gao L, ***Wang W***, et al. Modelling alteration of leaf coloration peak date in Cotinus coggygria in a high-elevation karst region[J]. Agricultural and Forest Meteorology, 2022, 323: 109044. (JIF: 6.424) https://www.sciencedirect.com/science/article/abs/pii/S0168192322002337
 
@@ -28,7 +29,8 @@
 - **GPA:** 3.53 (Compulsory Courses), 3.54 (All Courses)
 - **Scores:** 86.32/100 (Compulsory Courses), 86.46/100 (All Courses)
 > Please check the official document below.<br>
-[Undergraduate Grades](/Grades/UndergraduateScore.pdf).<br>
+[Undergraduate Grades](/Grades/UndergraduateScore.pdf).
+
 ### Master
 - **Major:** Network Science and Big Data
 - **GPA:** 3.74 (All Courses)
