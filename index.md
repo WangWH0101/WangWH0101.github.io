@@ -68,7 +68,7 @@
 		- **Z-Score and cluster:**<br>
 		<a gref="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CitationRatioPref/Z_Score"><img src="/Pics/CitationRatioPref/Z_Score/CitZscoreCluster.png" width="400"><img src="/Pics/CitationRatioPref/Z_Score/Zscore_NZscore_OtherToCN.png" width="400"></a><br>
 		- **Experiment and verification**<br>
-		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CitationRatioPref/ReferenceGrowthRate"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ReferenceGrowthRate.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ImpactOnICR_CtryToCtry.png" width="400"><br><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_HalfRFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_0.01RFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_RFGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_PubGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/IN_ICR_NOCN2.png" width="300"></a><br>
+		<div align=center><a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CitationRatioPref/ReferenceGrowthRate"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ReferenceGrowthRate.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ImpactOnICR_CtryToCtry.png" width="400"><br><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_HalfRFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_0.01RFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_RFGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_PubGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/IN_ICR_NOCN2.png" width="300"></a></div><br>
 - **Influence of Counting Methods on Institution Level Ranking:**
 	- **Keywords:**<br>
 	Big data, Data processing, Named entity identification, Counting methods, Rankings
@@ -81,7 +81,7 @@
 		<div align=center><a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></a></div><br>
 		
 		- **Ranking in CS (sample)**<br>
-		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><div align=center><img src="/Pics/CountMethod/RankSample.jpg" width="800"></a></div><br>
+		<div align=center><a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/RankSample.jpg" width="800"></a></div><br>
 		
 		- **Methods Classification (sample)**<br>
 		<div align=center><a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/SpearmanCo.png" width="600"></a></div><br>
