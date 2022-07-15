@@ -69,15 +69,30 @@
 		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CitationRatioPref/ReferenceGrowthRate"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ReferenceGrowthRate.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ImpactOnICR_CtryToCtry.png" width="400"><br><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_HalfRFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_0.01RFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_RFGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_PubGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/IN_ICR_NOCN2.png" width="300"></a><br>
 - **Influence of Counting Methods on Institution Level Ranking:**
 	- **Keywords:**<br>
-	Big data processing and analysis, Counting methods, Institution rankings, Institution name disambiguation, Inflation, Correlation
-	- The ranking of academic bodies (e.g. country, institution and person) will unavoidably need to measure their research output and impact. Publication and citation are the most widely used counting targets. The counting of publication reflects the academic volume, while the counting of citation measures the scientific impact to some extent. However, different counting methods have shown far different ranking results. Since Marianne Gauffriau have given a normative and rigorous definition of counting methods[^2] and many so called institution level only discussed universities, it's necessary to take this opportunity to carry out a complete and accurate research on this topic. After the restoration of WoS database, I've matched each author to his/her address segments and carried out the institution name disambiguation(IND) with an improved AI based approach.[^3] A total of six counting methods are utilized for publication and citation from counting at institution level in WoS data between 2000 and 2016. The main discovery is the classification of counting methods into three groups and the disadvantage of huge-crowd strategy under whole counting. <br>
+	Big data, Data processing, Named entity identification, Counting methods, Rankings
+	- The ranking of academic bodies (e.g. country, institution and person) will unavoidably measure their research output and impact. Publication and citation are the most widely used indexes. Generally, publication number reflects the academic volume, while citation received shows the scientific impact to some extent. However, different counting methods have various ranking results. Since Marianne Gauffriau have given a normative and rigorous definition of counting methods, while many so called institution level rankings only discussed universities, it's necessary to take this opportunity to carry out a complete and accurate research on this topic. However, as many institutions have more than one formal names in the database, disambiguation is an essential step before any other operation. After the processing of original WoS data, I’ve raised a rule-based method which has combined different approaches to disambiguate the institutions inside the database. Then, a total of six counting methods are utilized for publication and citation from counting at institution level in WoS data between 2000 and 2016. So far, the main discovery is that the six defined methods can be further divided into three types which can provide guidance for future counting method choosing. <br>
 (*group work led by me, first contributor, still unfinished*)<br>
-<div align=center>
-<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/PubRanking.png" width="400"><br><img src="/Pics/CountMethod/SpearmanCo.png" width="400"></a><br>
-</div>
+		- **Institution Name Disambiguation (sample)**<br>
+		<div align=center>
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/InsDisamSample.jpg" width="400"></a><br></div>
+		- **Counting Methods**<br>
+		<div align=center>
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></a><br></div>
+		- **Ranking in CS (sample)**<br>
+		<div align=center>
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/RankSample.jpg" width="400"></a><br></div>
+		- **Methods Classification (sample)**<br>
+		<div align=center>
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></a><br></div>
+	
 	
 [^2]: Marianne Gauffriau. Counting methods introduced into the bibliometric research literature 1970 – 2018: A review. Quantitative Science Studies (2021). Advance Publication. https://doi.org/10.1162/qss_a_00141.
 [^3]: Huang S., Ronald R. & Yang B. Institution name disambiguation for research assessment. Scientometrics, 201403.
+
+### Collaborative Interdisciplinary Research
+
+>Since I’ve finished my part of work in international citation modelling and counting methods comparison, I’ve joined other groups to extend my research areas.<
+
 - **Modulation of Leaf Color Change Date and Period:**
 	- **Keywords:**<br> 
 	leaf coloration peak date, autumn phenology, climatic variables, generalized additive regression, karst region.
