@@ -76,10 +76,13 @@
 (*group work led by me, first contributor, still unfinished*)<br>
 		- **Institution Name Disambiguation (sample)**<br>
 		<div align=center><a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/InsDisamSample.jpg" width="400"></a></div><br>
+		
 		- **Counting Methods**<br>
-		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><div align=center><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></a></div><br>
+		<div align=center><a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></a></div><br>
+		
 		- **Ranking in CS (sample)**<br>
 		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><div align=center><img src="/Pics/CountMethod/RankSample.jpg" width="800"></a></div><br>
+		
 		- **Methods Classification (sample)**<br>
 		<div align=center><a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/SpearmanCo.png" width="600"></a></div><br>
 	
