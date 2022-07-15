@@ -73,17 +73,14 @@
 	- The ranking of academic bodies (e.g. country, institution and person) will unavoidably measure their research output and impact. Publication and citation are the most widely used indexes. Generally, publication number reflects the academic volume, while citation received shows the scientific impact to some extent. However, different counting methods have various ranking results. Since Marianne Gauffriau have given a normative and rigorous definition of counting methods, while many so called institution level rankings only discussed universities, it's necessary to take this opportunity to carry out a complete and accurate research on this topic. However, as many institutions have more than one formal names in the database, disambiguation is an essential step before any other operation. After the processing of original WoS data, I’ve raised a rule-based method which has combined different approaches to disambiguate the institutions inside the database. Then, a total of six counting methods are utilized for publication and citation from counting at institution level in WoS data between 2000 and 2016. So far, the main discovery is that the six defined methods can be further divided into three types which can provide guidance for future counting method choosing. <br>
 (*group work led by me, first contributor, still unfinished*)<br>
 		- **Institution Name Disambiguation (sample)**<br>
-		<div align=center>
-		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/InsDisamSample.jpg" width="400"></a><br></div>
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><div align=center><img src="/Pics/CountMethod/InsDisamSample.jpg" width="400"></div></a><br>
 		- **Counting Methods**<br>
-		<div align=center>
-		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></a><br></div>
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><div align=center><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></div></a><br>
 		- **Ranking in CS (sample)**<br>
-		<div align=center>
-		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/RankSample.jpg" width="800"></a><br></div>
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><div align=center><img src="/Pics/CountMethod/RankSample.jpg" width="800"></div></a><br>
 		- **Methods Classification (sample)**<br>
-		<div align=center>
-		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/SpearmanCo.png" width="600"></a><br></div>
+		
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><div align=center><img src="/Pics/CountMethod/SpearmanCo.png" width="600"></div></a><br>
 	
 	
 [^2]: Marianne Gauffriau. Counting methods introduced into the bibliometric research literature 1970 – 2018: A review. Quantitative Science Studies (2021). Advance Publication. https://doi.org/10.1162/qss_a_00141.
