@@ -80,7 +80,7 @@
 		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></a><br></div>
 		- **Ranking in CS (sample)**<br>
 		<div align=center>
-		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/RankSample.jpg" width="400"></a><br></div>
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/RankSample.jpg" width="600"></a><br></div>
 		- **Methods Classification (sample)**<br>
 		<div align=center>
 		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></a><br></div>
@@ -91,7 +91,7 @@
 
 ### Collaborative Interdisciplinary Research
 
->Since I’ve finished my part of work in international citation modelling and counting methods comparison, I’ve joined other groups to extend my research areas.<
+>Since I’ve finished my part of work in international citation modelling and counting methods comparison, I’ve joined other groups to extend my research areas.
 
 - **Modulation of Leaf Color Change Date and Period:**
 	- **Keywords:**<br> 
