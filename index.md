@@ -83,7 +83,7 @@
 		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/RankSample.jpg" width="600"></a><br></div>
 		- **Methods Classification (sample)**<br>
 		<div align=center>
-		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/CountMethodClassf.jpg" width="400"></a><br></div>
+		<a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CountMethod"><img src="/Pics/CountMethod/SpearmanCo.png" width="400"></a><br></div>
 	
 	
 [^2]: Marianne Gauffriau. Counting methods introduced into the bibliometric research literature 1970 – 2018: A review. Quantitative Science Studies (2021). Advance Publication. https://doi.org/10.1162/qss_a_00141.
