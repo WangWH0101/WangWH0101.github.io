@@ -14,10 +14,10 @@
 1. Tan X, Gao L, ***Wang W***, et al. Modelling alteration of leaf coloration peak date in Cotinus coggygria in a high-elevation karst region[J]. Agricultural and Forest Meteorology, 2022, 323: 109044. (JIF: 6.424) https://www.sciencedirect.com/science/article/abs/pii/S0168192322002337
 
 ## Honors and Awards
-1. Third award in "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling. [Award certificate](/Pics/Others/MathModelAward.pdf)
+1. Third Prize in "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling. [Award certificate](/Pics/Others/MathModelAward.pdf)
 
 ## Language Ability
-- Chinese (Mother language)
+- Chinese
 - TOEFL (Score:106 Time:2021/05/26)
 - Japanese (A little bit)<br>
 <img src="/Pics/Others/TOEFL.png" width="300"><br>
@@ -50,7 +50,7 @@
 <a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/Electrospinning"><img src="/Pics/Electrospinning/FlowChart.png" width="150"/><img src="/Pics/Electrospinning/SpinEquip.png" width="150"/><img src="/Pics/Electrospinning/FiltTST.png" width="150"/><img src="/Pics/Electrospinning/PermTST.png" width="150"><img src="/Pics/Electrospinning/Equip1.jpeg" width="150"/><img src="/Pics/Electrospinning/Equip2.jpeg" width="150"/></a><br>
 - **Network State Propagation:**
 	- **Keywords:**<br>
-	Complex networks, Stochastic binary-state networks, Network construction, Propagation dynamics, Theoretical computation 
+	Complex networks, Stochastic binary-state networks, Network construction, Propagation dynamics
 	- The existence of various kinds of networks brings a large number of topological structures composed of different nodes and corresponding states. The research on network science has been showing increasing importance in many domains, such as epidemic prediction, rumor spreading and recommendation system. I've studied the SI and SIS propagation of node states under randomly generated undirected networks of poisson and regular distribution. The fractions of infected nodes under continuous and discrete propagations are compared. Besides, the theoretical calculation methods including AME, PA and mean field(MF)[^1] are introduced and tested. This study is basiclly done through Matlab.<br>
 <a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/Network state propagation"><img src="/Pics/Network state propagation/NodeStateChange.png" width="130"><img src="/Pics/Network state propagation/NodeStateUpdate.png" width="150"><img src="/Pics/Network state propagation/ContinuousDiscrete.png" width="150"><img src="/Pics/Network state propagation/ContiDisc_SIS.png" width="150"><img src="/Pics/Network state propagation/ContiDisc_SampIntv.png" width="150"><img src="/Pics/Network state propagation/AME_PA_MF.png" width="150"></a><br>
 
