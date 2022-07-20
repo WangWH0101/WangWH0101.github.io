@@ -1,6 +1,9 @@
 # Weihan Wang
     E-mail: wangwh0101@gmail.com
 
+## Research Interest
+Reinforcement Learning, Machine Learning, Self-Driving, Big Data, Data Modeling
+
 ## Education Background
 **2015.09~2017.08 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University (985).<br>
 **2017.08~2017.09 Summer Session:** Physics 7D, School of Physics Sciences, University of California Irvine (UCI).<br>
