@@ -1,7 +1,7 @@
 # Weihan Wang
     E-mail: wangwh0101@gmail.com
 
-## Research Interest
+## Research Interests
 Reinforcement Learning, Machine Learning, Self-Driving, Big Data, Data Modeling
 
 ## Education Background
