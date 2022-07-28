@@ -25,6 +25,8 @@ Computer Vision, Virtual/Augmented Reality, Machine Learning, Self-Driving, Big 
 - TOEFL (Score:106 Time:2021/05/26)
 - Japanese (A little bit)<br>
 <img src="/Pics/Others/TOEFL.png" width="300"><br>
+> Please check the official document below.<br>
+[TOELF Grades](/Grades/Pics/Others/TOELF成绩20210526.pdf).
 
 ## Grades
 ### Undergraduate
