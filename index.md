@@ -2,7 +2,7 @@
     E-mail: wangwh0101@gmail.com
 
 ## Research Interests
-Reinforcement Learning, Machine Learning, Self-Driving, Big Data, Data Modeling
+Computer Vision, Virtual/Augmented Reality, Machine Learning, Self-Driving, Big Data, Data Modeling
 
 ## Education Background
 **2015.09~2017.08 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University (985).<br>
