@@ -26,7 +26,7 @@ Computer Vision, Virtual/Augmented Reality, Machine Learning, Self-Driving, Big 
 - Japanese (A little bit)<br>
 <img src="/Pics/Others/TOEFL.png" width="300"><br>
 > Please check the official document below.<br>
-[TOELF Grades](/Pics/Others/TOELF成绩20210526.pdf).
+[TOEFL Grades](/Pics/Others/TOEFL_Score20210526.pdf).
 
 ## Grades
 ### Undergraduate
