@@ -2,7 +2,7 @@
     E-mail: wangwh0101@gmail.com
 
 ## Research Interests
-Computer Vision, Virtual/Augmented Reality, Machine Learning, Self-Driving, Big Data, Data Modeling
+Natural Language Processing,Computer Vision, Machine Learning, Self-Driving, Big Data, Data Modeling
 
 ## Education Background
 **2015.09~2017.08 Undergraduate:** Theoretical Physics, College of Physics, Sichuan University (985).<br>
@@ -76,7 +76,7 @@ Computer Vision, Virtual/Augmented Reality, Machine Learning, Self-Driving, Big 
 		<div align=center><a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/CitationRatioPref/ReferenceGrowthRate"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ReferenceGrowthRate.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ImpactOnICR_CtryToCtry.png" width="400"><br><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_HalfRFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_0.01RFGrowthRt_NullModel.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_RFGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/ICR_CN_PubGrowthAsUS_OriData.png" width="200"><img src="/Pics/CitationRatioPref/ReferenceGrowthRate/IN_ICR_NOCN2.png" width="300"></a></div><br>
 - **Influence of Counting Methods on Institution Level Ranking:**
 	- **Keywords:**<br>
-	Big data, Data processing, Named entity identification, Counting methods, Rankings
+	Big data, Natural language processing processing, Named entity identification, Counting methods
 	- The ranking of academic bodies (e.g. country, institution and person) will unavoidably measure their research output and impact. Publication and citation are the most widely used indexes. Generally, publication number reflects the academic volume, while citation received shows the scientific impact to some extent. However, different counting methods have various ranking results. Since Marianne Gauffriau have given a normative and rigorous definition of counting methods [^2], while many so called institution level rankings only discussed universities, it's necessary to take this opportunity to carry out a complete and accurate research on this topic. However, as many institutions have more than one formal names in the database, disambiguation is an essential step before any other operation. After the processing of original WoS data, I’ve raised a rule-based method which has combined different approaches [^3] to disambiguate the institutions inside the database. Then, a total of six counting methods are utilized for publication and citation from counting at institution level in WoS data between 2000 and 2016. So far, the main discovery is that the six defined methods can be further divided into three types which can provide guidance for future counting method choosing. <br>
 (*group work led by me, first contributor, still unfinished*)<br>
 		- **Institution Name Disambiguation (sample)**<br>
