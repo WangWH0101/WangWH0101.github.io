@@ -45,6 +45,7 @@ Natural Language Processing,Computer Vision, Machine Learning, Self-Driving, Big
 
 ## Programming Language
 - Python
+- Java
 - C++/C
 - Matlab
 
