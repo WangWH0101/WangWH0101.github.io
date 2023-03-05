@@ -31,14 +31,14 @@ Natural Language Processing,Computer Vision, Machine Learning, Self-Driving, Big
 ## Grades
 ### Undergraduate
 - **Major:** Theoritical Physics
-- **GPA:** 3.53 (Compulsory Courses), 3.54 (All Courses)
+- **GPA:** 3.53/4.0 (Compulsory Courses), 3.54/4.0 (All Courses)
 - **Scores:** 86.32/100 (Compulsory Courses), 86.46/100 (All Courses)
 > Please check the official document below.<br>
 [Undergraduate Grades](/Grades/UndergraduateScore.pdf).
 
 ### Master
 - **Major:** Network Science and Big Data
-- **GPA:** 3.74 (All Courses)
+- **GPA:** 3.74/4.3 (All Courses)
 - **Scores:** 87.64/100 (All Courses)
 > Please check the official document below.<br>
 [Master Grades](/Grades/PostGraduateScore.jpg).<br>
