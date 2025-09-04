@@ -16,8 +16,8 @@ Machine Learning, Data Modeling, Computer Vision, Big Data, Natural Language Pro
 
 ### Journal
 1. Tan X, Gao L, ***Wang W***, et al. Modelling alteration of leaf coloration peak date in Cotinus coggygria in a high-elevation karst region[J]. Agricultural and Forest Meteorology, 2022, 323: 109044. (JIF: 6.424) https://www.sciencedirect.com/science/article/abs/pii/S0168192322002337
-2. Tan X, ***Wang W***, Gao L, et al. The difference in leaf color quality of Cotinus coggygria during the coloration peak period affected by soil and topographic heterogeneity[J]. Catena, 2023, 228: 107140.
-3. Gao L, ***Wang W***, Liao X, et al. Soil nutrients, enzyme activities, and bacterial communities in varied plant communities in karst rocky desertification regions in Wushan County, Southwest China[J]. Frontiers in Microbiology, 2023, 14: 1180562.
+2. Tan X, ***Wang W***, Gao L, et al. The difference in leaf color quality of Cotinus coggygria during the coloration peak period affected by soil and topographic heterogeneity[J]. Catena, 2023, 228: 107140.(JIF: 6.3)
+3. Gao L, ***Wang W***, Liao X, et al. Soil nutrients, enzyme activities, and bacterial communities in varied plant communities in karst rocky desertification regions in Wushan County, Southwest China[J]. Frontiers in Microbiology, 2023, 14: 1180562.(JIF: 5.2)
 4. 王维翰.基于实证数据的机构与国家论文引用量分析与建模研究[D].西南大学,2022.DOI:10.27684/d.cnki.gxndx.2022.000501.
 
 ## Honors and Awards
