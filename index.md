@@ -53,7 +53,16 @@ Machine Learning, Data Modeling, Computer Vision, Big Data, Natural Language Pro
 - Matlab
 
 ## Work Experience
-### Chongqing Changan Industry (Group) Co., Ltd
+<table width="100%">
+  <tr>
+    <td>
+      <h3 style="margin: 0;">Chongqing Changan Industry (Group) Co., Ltd</h3>
+    </td>
+    <td align="right" width="80">
+      <img src="/Pics/MyWork/15.png" alt="Company Logo" width="200">
+    </td>
+  </tr>
+</table>
 - **Time:** 2023/04 - .
 - **Job Title:** Mid-level Engineer
 - **Main job responsibilities:** <br> <ol> <li>Software and hardware architecture design for autonomous vehicles</li> <li>Equipment system and application scenario design</li> <li>Design and development of unmanned task models and algorithms</li> </ol>
