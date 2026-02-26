@@ -52,6 +52,12 @@ Machine Learning, Data Modeling, Computer Vision, Big Data, Natural Language Pro
 - C++/C
 - Matlab
 
+## Work Experience
+### Chongqing Changan Industry (Group) Co., Ltd
+- **Time:** 2023/04 - .
+- **Job Title:** Mid-level Engineer
+- **Main job responsibilities:** <br> <ol> <li>Software and hardware architecture design for autonomous vehicles</li> <li>Equipment system and application scenario design</li> <li>Design and development of unmanned task models and algorithms</li> </ol>
+
 ## Research Experience
 ### Undergraduate
 - **Electrospinning:**
@@ -118,4 +124,3 @@ Machine Learning, Data Modeling, Computer Vision, Big Data, Natural Language Pro
 <a href="https://github.com/WangWH0101/WangWH0101.github.io/tree/main/Pics/Mower"><img src="/Pics/Mower/MowerDesign.png" width="300"><img src="/Pics/Mower/UnityEnv1.png" width="300"><img src="/Pics/Mower/UnityEnv22.png" width="300"></a><br>
 
 [^4]: https://docs.donkeycar.com/
-
