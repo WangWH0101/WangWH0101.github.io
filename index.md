@@ -61,8 +61,19 @@ Machine Learning, Data Modeling, Computer Vision, Big Data, Natural Language Pro
 </div>
 
 - **Time:** 2023/04 - .
-- **Job Title:** Mid-level Engineer
-- **Main job responsibilities:** <br> <ol> <li>Software and hardware architecture design for autonomous vehicles</li> <li>Equipment system and application scenario design</li> <li>Design and development of unmanned task models and algorithms</li> </ol>
+- **Job Title:** Engineer
+- **Main job responsibilities:** <br>
+- <ol> 
+	<li>Software and hardware architecture design for autonomous vehicles</li> 
+	<li>Equipment system and application scenario design</li>
+	<li>Design and development of unmanned task models and algorithms</li>
+</ol>
+
+| Job Responsibilities |
+| ----- |
+| Software and hardware architecture design for autonomous vehicles |
+| Equipment system and application scenario design |
+| Design and development of unmanned task models and algorithms |
 
 ## Research Experience
 ### Undergraduate
